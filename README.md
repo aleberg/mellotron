@@ -1,2 +1,2 @@
 # mellotron
-digital/analog sampler
+digital/analog sampler - UNTESTED!
